@@ -6,7 +6,7 @@ Este repositório contém um projeto que modela as funcionalidades de um iPhone,
 
 ## 📊 Diagrama UML
 <p align="center">
-  <img src="Modelando-Iphone-UML/ModelagemIphone.png" alt="Diagrama de Classes">
+  <img src="ModelagemIphone.png" alt="Diagrama de Classes">
 </p>
 
 ## Funcionalidades
